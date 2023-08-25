@@ -1,0 +1,1 @@
+import{a as e}from"./index-1de9cafd.js";import{ae as r,o as t,U as n}from"./vendor0-4bdf080b.js";import"./vendor1-aea4909b.js";import"./graphql-89cdf926.js";import"./element-plus-8ccb82c6.js";const c={};function s(a,i){const o=r("RouterView");return t(),n(o)}const d=e(c,[["render",s]]);export{d as default};

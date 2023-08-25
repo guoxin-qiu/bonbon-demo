@@ -1,0 +1,1 @@
+import{a as t}from"./index-1de9cafd.js";import{o,b as e}from"./vendor0-4bdf080b.js";import"./vendor1-aea4909b.js";import"./graphql-89cdf926.js";import"./element-plus-8ccb82c6.js";const r={},c={class:"text-red"};function s(n,a){return o(),e("div",c,"CRUD")}const d=t(r,[["render",s]]);export{d as default};
