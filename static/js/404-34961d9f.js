@@ -1,0 +1,1 @@
+import{a as o}from"./index-3da9c86c.js";import{o as r,b as t}from"./vendor0-9e9963e5.js";import"./vendor1-b25ebc05.js";import"./graphql-9dc7dd56.js";import"./element-plus-c89972e5.js";const e={};function c(n,a){return r(),t("div",null,"404")}const f=o(e,[["render",c]]);export{f as default};

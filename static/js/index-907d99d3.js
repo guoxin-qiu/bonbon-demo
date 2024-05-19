@@ -1,0 +1,1 @@
+import{a as o}from"./index-3da9c86c.js";import{o as r,b as e}from"./vendor0-9e9963e5.js";import"./vendor1-b25ebc05.js";import"./graphql-9dc7dd56.js";import"./element-plus-c89972e5.js";const t={};function n(c,i){return r(),e("div",null,"Coming Soon...")}const f=o(t,[["render",n]]);export{f as default};
